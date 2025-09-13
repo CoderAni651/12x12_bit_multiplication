@@ -1,3 +1,6 @@
+// A code for 12*12 bit multiplication using Hybrid Adders
+
+
 module multi_12(a,b,pro);
 input [11:0]a,b;
 output [23:0] pro;
